@@ -27,8 +27,8 @@
                     "type": "domain-name"
                 },
                 "2": {
-                    "value": "CC:46:D6:44:a2:ed",
-                    "type": "mac-addr"
+                    "value": "111.111.111-12",
+                    "type": "CPF"
                 },
                 "3": {
                     "value": "https://iser-wron.tg/5gAmtp2/8TanCA89lw5r1/b07UOg4A/ysteresi-spe-procurin.esl",
