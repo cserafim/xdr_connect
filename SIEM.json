@@ -84,6 +84,13 @@
                     "user_id": "dan",
                     "account_login": "dan"
                 }
+                "12": {
+                    "name": "tryme.exe",
+                    "hashes": {
+                        "SHA-1": "834d876b47ae8e595ae417a370cd47cc8e061131"
+                    },
+                    "type": "file"
+                }
             },
             "modified": "2021-09-09T04:12:07.335Z",
             "last_observed": "2021-09-09T04:12:07.335Z",
