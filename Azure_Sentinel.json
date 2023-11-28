@@ -267,9 +267,9 @@
                     "type": "user-account"
                 },
                 "5": {
-                    "name": "ryuk-bin.exe",
+                    "name": "131.exe",
                     "hashes": {
-                        "MD5": "5ac0f050f93f86e69026faea1fbb4450"
+                        "sha-256": "e5ad071a4d111fda68cea202de70355bb939f8c046093bce2a3ec38bba41bee7"
                     },
                     "type": "file"
                 }
