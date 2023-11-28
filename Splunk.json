@@ -45,12 +45,12 @@
                     "value": "172.20.13.104"
                 },
                 "6": {
-                    "name": "tryme.exe",
+                    "name": "131.exe",
                     "type": "file",
                     "hashes": {
                         "MD5": "f586835082f632dc8d9404d83bc16316",
                         "SHA-1": "834d876b47ae8e595ae417a370cd47cc8e061131",
-                        "SHA-256": "e5ad071a4d111fda68cea202de70355bb939f8c046093bce2a3ec38bba41bee78"
+                        "SHA-256": "e5ad071a4d111fda68cea202de70355bb939f8c046093bce2a3ec38bba41bee7"
                     },
                     "parent_directory_ref": "8"
                 },
